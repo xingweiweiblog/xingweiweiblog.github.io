@@ -1,6 +1,6 @@
 # Site settings
 title: BY Blog
-SEOTitle: 初冬的博客 | BY Blog
+SEOTitle: 初冬的博客 | BY ChuDong
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
@@ -18,11 +18,11 @@ sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     用户5281634241
+zhihu_username:     绝口不提
+github_username:    xingweiweiblog
+#facebook_username:
+jianshu_username:   f31752c0583d
 #twitter_username:   qiubaiying
 
 
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: xingweiweiblog.github.io    #仓库名称
+  owner: xingweiweiblog    #github用户名
+  admin: xingweiweiblog
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 4079eed292d9925fc55160c8cd6a5d47
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -86,7 +86,7 @@ ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
